@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="col-span-1 md:col-span-2">
           <div className="flex items-center gap-2 mb-4">
             <Bot className="text-blue-500" />
-            <span className="text-lg font-bold text-white">LexiBot</span>
+            <span className="text-lg font-bold text-white">YarnBot</span>
           </div>
           <p className="text-sm max-w-xs">
             The next generation of AI legal assistance and general knowledge. 

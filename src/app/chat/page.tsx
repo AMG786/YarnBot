@@ -260,7 +260,7 @@ export default function ChatPage() {
             ) : (
               <div className="flex-1 flex flex-col items-center justify-center p-8 text-center">
                 <div className="h-24 w-24 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-2xl flex items-center justify-center mb-6"><Bot size={48} className="text-white" /></div>
-                <h2 className="text-3xl font-bold text-white mb-3">Welcome to LexiBot</h2>
+                <h2 className="text-3xl font-bold text-white mb-3">Welcome to YarnBot</h2>
                 <p className="text-zinc-400 max-w-md mb-8">Start a new conversation to explore the power of AI.</p>
                 <Button onClick={createNewChat} size="lg" className="bg-white text-black hover:bg-zinc-200 rounded-full px-8"><Plus className="mr-2 h-5 w-5" /> Start New Chat</Button>
               </div>

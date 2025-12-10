@@ -23,7 +23,7 @@ export function FeaturesGrid() {
             area="md:[grid-area:1/7/2/13] xl:[grid-area:2/1/3/5]"
             icon={<FileText className="h-4 w-4 text-zinc-400" />}
             title="Instant Document Analysis"
-            description="Upload PDF or DOCX files. LexiBot reads, summarizes, and extracts key legal or technical points in seconds."
+            description="Upload PDF or DOCX files. YarnBot reads, summarizes, and extracts key legal or technical points in seconds."
           />
 
           <GridItem
